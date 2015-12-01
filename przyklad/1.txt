@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+a#include <stdio.h>
+=======
 b#include <stdmio.h>
+>>>>>>> remotes/origin/master
  
 int main()
 {
