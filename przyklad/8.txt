@@ -25,7 +25,7 @@ int main()
       for (d = 0 ; d < n; d++) {
          sum[c][d] = first[c][d] + second[c][d];
          printf("%d\t", sum[c][d]);
-      }
+      }a
       printf("\n");
    }
  
