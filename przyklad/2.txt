@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 a
+=======
+b
+>>>>>>> remotes/origin/master
 
 #include <stdio.h>
  

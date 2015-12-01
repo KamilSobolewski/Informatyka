@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 a#include <stdio.h>
+=======
+b#include <stdmio.h>
+>>>>>>> remotes/origin/master
  
 int main()
 {
-  printf("Hello world\n");
+  printf("KamidfsdfdflHello worlxxxxxd\n");
   return 0;
 }
