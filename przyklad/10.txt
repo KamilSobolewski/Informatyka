@@ -10,7 +10,7 @@ int main()
    printf("Enter some text\n");
    gets(text);
  
-   while (text[c] != '\0') {
+   while (text[c] != '\0') { dsfdfdf monika
       if (text[c] == ' ') {
          int temp = c + 1;
          if (text[temp] != '\0') {
@@ -29,7 +29,7 @@ int main()
  
    blank[d] = '\0';
  
-   printf("Text after removing this blanks\n%s\n", blank);
+   printf("Text after removing blanks\n%s\n", blank);
  
    return 0;
 }
