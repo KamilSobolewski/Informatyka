@@ -28,7 +28,7 @@ int main()
   for (k = 1; k <= n - 1; k++)
   {
     for (c = 1; c <= space; c++)
-      printf(" ");
+      printf(" ");a
  
     space++;
  
