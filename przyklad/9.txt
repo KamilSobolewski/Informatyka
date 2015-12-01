@@ -26,7 +26,7 @@ int main()
 }
  
 int check_anagram(char a[], char b[])
-{
+{a
    int first[26] = {0}, second[26] = {0}, c = 0;
  
    while (a[c] != '\0')
