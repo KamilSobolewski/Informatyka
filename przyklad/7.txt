@@ -26,7 +26,7 @@ int main()
     */
  
    for (c = 0; c < n; c++)
-      a[c] = b[c];
+      a[c] = b[c];a
  
    printf("Reverse array is\n");
  
